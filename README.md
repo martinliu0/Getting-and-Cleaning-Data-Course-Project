@@ -21,7 +21,7 @@
 
 ## Project Outcome
 1.  A [tidy dataset](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.txt) created in step 5 of the instructions;
-2.  A script (run_analysis.R) that generates the tidy data set;
+2.  A [script](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R) (run_analysis.R) that generates the tidy data set;
 3.  A [code book](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/codebook.md) describing the variables in the tidy data set.
 
-\* A tidy dataset in csv format is included for readability on github.
+\* A [tidy dataset](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.csv) in csv format is included for readability on github.
