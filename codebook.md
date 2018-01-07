@@ -28,11 +28,11 @@ As per requirements of the project, the following operations were performed to t
 3.  Descriptive variable names were used to increase readability;
 4.  A tidy data set was generated.
 
-### Variables Overview
+## Variables Overview
 | Variable Name      | Description                                                                                                                                     | Value                                                                                |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Subject            | A number denoting the test subject                                                                                                              | 1 - 30                                                                               |
-| Activity           | A String denoting the type of activity                                                                                                          | "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING" | 
+| Activity           | A String denoting the type of activity                                                                                                          | "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING" |
 | Data Partition     | A String denoting  whether value is from test or train data set                                                                                 | "test", "train"                                                                      |
 | tBodyAcc.mean.X    | A decimal number denoting mean measurement of body acceleration signal in the X axis                                                            | numeric                                                                              |
 | tGravityAcc.mean.X | A decimal number denoting mean measurement of gravityMean acceleration signal in the X axis                                                     | numeric                                                                              |

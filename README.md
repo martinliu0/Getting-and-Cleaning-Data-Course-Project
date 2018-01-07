@@ -20,7 +20,8 @@
 5.  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Project Outcome
-1.  tidy data (txt file) set created in step 5 of the instructions;
-2.  a script (run_analysis.R) that generates the tidy data set;
-3.  a code book describing the variables;
-4.  a tidy data set in csv format is included for readability on github.
+1.  A [tidy dataset](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.txt) created in step 5 of the instructions;
+2.  A script (run_analysis.R) that generates the tidy data set;
+3.  A [code book](https://github.com/martinliu0/Getting-and-Cleaning-Data-Course-Project/blob/master/codebook.md) describing the variables in the tidy data set.
+
+\* A tidy dataset in csv format is included for readability on github.
